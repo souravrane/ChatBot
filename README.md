@@ -11,3 +11,4 @@ This bot is created using DialogFlow. :  https://dialogflow.com/
 3) Integrate with one of the applications from the integrations tab.
 4) Your chatbot is all set ! Enjoy talking to it :) !
 
+*remove the .gitattributes and readme file before importing 
