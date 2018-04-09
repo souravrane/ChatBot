@@ -1,0 +1,26 @@
+[
+  {
+    "id": "838cb68f-f401-4c87-84f5-b8f862de58aa",
+    "data": [
+      {
+        "text": "techno",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522731162
+  },
+  {
+    "id": "7d44f929-2b48-46c8-8c2b-82e54c48525f",
+    "data": [
+      {
+        "text": "Technocrat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1522731162
+  }
+]

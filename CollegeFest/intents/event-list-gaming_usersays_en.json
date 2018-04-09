@@ -1,0 +1,44 @@
+[
+  {
+    "id": "72ce0fd7-6bdd-438e-b18e-fd471d1be2df",
+    "data": [
+      {
+        "text": "Gaming",
+        "alias": "job-vacancy",
+        "meta": "@job-vacancy",
+        "userDefined": false
+      },
+      {
+        "text": " events",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522731445
+  },
+  {
+    "id": "c78f87c1-9d49-4b45-af6b-2f2de38162e2",
+    "data": [
+      {
+        "text": "Gaming",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522731445
+  },
+  {
+    "id": "8866af7f-d5bb-40a1-ad78-26c00a8a947b",
+    "data": [
+      {
+        "text": "gaming",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522731445
+  }
+]

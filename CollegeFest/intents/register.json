@@ -1,0 +1,64 @@
+{
+  "id": "6674dc43-7ab8-4b2e-8159-98bd9f3a3270",
+  "name": "register",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "job-enquiry",
+      "affectedContexts": [
+        {
+          "name": "register",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "en",
+          "title": "Event category:",
+          "replies": [
+            "Technical",
+            "Gaming",
+            "Arts",
+            "Cultural"
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "jobs",
+          "replies": [
+            "accountant",
+            "sales assistant",
+            "not interested"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Sure! Let us know which specific event do you want to participate in  ? Choose the event category.",
+            "Yes ! Please choose your event  in which you are interested to participate in . Choose your event category."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523282900,
+  "fallbackIntent": false,
+  "events": []
+}

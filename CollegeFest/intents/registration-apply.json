@@ -1,0 +1,59 @@
+{
+  "id": "948e854c-e7b4-42ea-9163-dd3c7c7e4562",
+  "name": "registration-apply",
+  "auto": true,
+  "contexts": [
+    "register"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "job-application",
+      "affectedContexts": [
+        {
+          "name": "register_details",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c3e2d285-3c72-4182-83db-6211e99471a8",
+          "required": true,
+          "dataType": "@job-vacancy",
+          "name": "job-vacancy",
+          "value": "$job-vacancy",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Tell us the category  of the event under which you want to participate please !"
+            },
+            {
+              "lang": "en",
+              "value": "Mention the event category first ."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Great! We will need some information from you. Write ok when you\u0027re ready.",
+            "Ok! Let me write out some details. Type ok when you\u0027re ready."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523283144,
+  "fallbackIntent": false,
+  "events": []
+}

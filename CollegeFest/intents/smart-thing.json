@@ -1,0 +1,29 @@
+{
+  "id": "787af8ae-0e91-4f41-94d5-5de472502a6d",
+  "name": "smart-thing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smart-thing",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ok ! This is a smart thing  :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521555607,
+  "fallbackIntent": false,
+  "events": []
+}

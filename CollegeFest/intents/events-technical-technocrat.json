@@ -1,0 +1,36 @@
+{
+  "id": "1efc58e9-af16-4b7e-91b3-da0b59d0010c",
+  "name": "events-technical-technocrat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "https://www.hackerrank.com/contests/college"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Technocrat\ndesc: Battle of Technocrats\nparticipation: 1 per team\n\nrules: \n1. It is an individual event.\n2. No. Of rounds: 2\n3. Time Limit:\nQUALIFIER ROUND: 45 mins\nFINAL ROUND: 45 mins\n\neventco: Manogna M ­ 7676738744\nprize: 1st place:₹3000   2nd place:₹1000\n   \nregistration: ₹100"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522732354,
+  "fallbackIntent": false,
+  "events": []
+}

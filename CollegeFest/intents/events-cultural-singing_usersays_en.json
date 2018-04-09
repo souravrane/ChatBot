@@ -1,0 +1,30 @@
+[
+  {
+    "id": "b2d16278-a882-48e1-946a-516390eac7bc",
+    "data": [
+      {
+        "text": "sing",
+        "alias": "job-vacancy",
+        "meta": "@job-vacancy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522730268
+  },
+  {
+    "id": "97a152aa-a3e4-48c6-99bd-d3a4dcae4bb0",
+    "data": [
+      {
+        "text": "singing",
+        "alias": "job-vacancy",
+        "meta": "@job-vacancy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522730268
+  }
+]

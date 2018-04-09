@@ -1,0 +1,26 @@
+[
+  {
+    "id": "b36ad119-ed4b-4e6e-a53f-b0746745139d",
+    "data": [
+      {
+        "text": "Tell me a smart thing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521555607
+  },
+  {
+    "id": "1c938417-36c5-4022-a898-0daeb07896c2",
+    "data": [
+      {
+        "text": "Tell me something smart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521555544
+  }
+]

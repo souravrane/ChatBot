@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ebd493ba-8aa0-40f1-8301-0c66b214cc00",
+    "data": [
+      {
+        "text": "Cultural",
+        "alias": "job-vacancy",
+        "meta": "@job-vacancy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1522731665
+  }
+]

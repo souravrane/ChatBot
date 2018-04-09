@@ -1,0 +1,40 @@
+[
+  {
+    "id": "31ae01c1-4883-4dfc-a136-6c6061f24b19",
+    "data": [
+      {
+        "text": "Robotics",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522732233
+  },
+  {
+    "id": "f33be8ae-ec9d-4d49-b379-6d371443e790",
+    "data": [
+      {
+        "text": "robotics",
+        "alias": "job-vacancy",
+        "meta": "@job-vacancy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522732233
+  },
+  {
+    "id": "33ca9475-7c9b-444c-9379-3a1e24eca899",
+    "data": [
+      {
+        "text": "robots",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1522731351
+  }
+]

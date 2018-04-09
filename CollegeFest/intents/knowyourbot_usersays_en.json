@@ -1,0 +1,74 @@
+[
+  {
+    "id": "9a228026-7fed-4180-8166-1374bf5cd5ef",
+    "data": [
+      {
+        "text": "help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522732002
+  },
+  {
+    "id": "e37e0fdc-ce29-4564-9ee7-14a1b5259cfd",
+    "data": [
+      {
+        "text": "how can you help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522732002
+  },
+  {
+    "id": "fadb5514-00e6-4a82-94bc-982529d8f9cf",
+    "data": [
+      {
+        "text": "what is your job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522732002
+  },
+  {
+    "id": "73e85728-c911-49f9-81bb-1ce65f120d92",
+    "data": [
+      {
+        "text": "what can you do for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522732002
+  },
+  {
+    "id": "de17cf12-a522-4f87-95c8-a264c5a5d337",
+    "data": [
+      {
+        "text": "what do you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522732002
+  },
+  {
+    "id": "2a5272ac-aa85-49b7-8dcb-a590226b7c1d",
+    "data": [
+      {
+        "text": "What is your work ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522732002
+  }
+]

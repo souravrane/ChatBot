@@ -1,0 +1,46 @@
+{
+  "id": "235b9457-bd57-4989-b12f-e64ebdbbe9cf",
+  "name": "memes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "en",
+          "speech": "le le -_- !"
+        },
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "https://i.pinimg.com/originals/ee/c1/59/eec1592d9f1e3d3e535cd8827fc995b3.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "http://funnyexpo.com/wp-content/uploads/2017/09/Funny-Good-Night-Meme-Image-9-364x205.jpg"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521561072,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "a1896495-0fce-45d9-8f8a-29f00d748a0b",
+  "name": "events-arts-arthunt",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "df840d37-8501-4c20-8e11-328a6b8c485b",
+          "dataType": "@job-vacancy",
+          "name": "job-vacancy",
+          "value": "$job-vacancy",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "https://www.northseajazz.com/en/gallery/artposters/"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Art Hunt\ndesc: An event where you hunt for art supplies and showcase your inner artist by creating something incredible out of it. In this event, participants register in a team of two. First round is to hunt for the art supplies in the given time. In the second round, the participants have to create something skillful out of what they\u0027ve found.\n\nparticipation : 2 per team\n  rules: \n1. A clue will be given to them and they will have to hunt for the art supplies in a given time limit.\n2. They can start creating something artful as soon as they find the supplies.\n3. Participants will be judged on the basis of innovative usage of the art supplies.\\n4. Decision of the judges will be final.\n\neventco: Chandini Sharma - 8123919619 \nprize: 1st place:₹3000    2nd place:₹1500\n\nregistration: ₹200"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522732090,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "46a36497-d1f9-4a97-b673-0aafdc14f3c2",
+  "name": "knowyourbot",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Im the Bot built for Cultura 2018. My work is to show you the events taking place in our fest and also get you registered if needed . You can let me know if you need any information regarding the fest."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522732002,
+  "fallbackIntent": false,
+  "events": []
+}

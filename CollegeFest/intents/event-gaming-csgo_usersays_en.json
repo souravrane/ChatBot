@@ -1,0 +1,32 @@
+[
+  {
+    "id": "b1be1a07-2378-4eb2-af58-b30ff8cfda96",
+    "data": [
+      {
+        "text": "CS GO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522729724
+  },
+  {
+    "id": "4dae27ed-735a-4455-8751-e78c05d7c28e",
+    "data": [
+      {
+        "text": "counter strike",
+        "alias": "job-vacancy",
+        "meta": "@job-vacancy",
+        "userDefined": false
+      },
+      {
+        "text": " global offensive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1522729724
+  }
+]

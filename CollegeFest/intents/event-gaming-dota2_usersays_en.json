@@ -1,0 +1,40 @@
+[
+  {
+    "id": "0082a361-ed54-42d8-a0f9-867eea7ecd47",
+    "data": [
+      {
+        "text": "dota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522729954
+  },
+  {
+    "id": "ed4d1b76-1ea5-4806-8907-ec21c4d7cb57",
+    "data": [
+      {
+        "text": "dota2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522729954
+  },
+  {
+    "id": "3f131692-474f-438d-9829-c3008b61dd92",
+    "data": [
+      {
+        "text": "Dota 2",
+        "alias": "job-vacancy",
+        "meta": "@job-vacancy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1522729954
+  }
+]

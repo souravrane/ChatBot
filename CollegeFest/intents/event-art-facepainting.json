@@ -1,0 +1,45 @@
+{
+  "id": "d3f81ac4-cb09-4960-bff9-246e6d2e23ec",
+  "name": "event-art-facepainting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dcad166b-de07-4a2d-b1c8-1990b4df4444",
+          "required": false,
+          "dataType": "@job-vacancy",
+          "name": "job-vacancy",
+          "value": "$job-vacancy",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "https://fineartamerica.com/featured/face-paint-2-jeremy-scott.html"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Face Painting\n\ndesc: Want to paint your friend’s face? It’s fun! \nFace painting is artistically applying paint to a person’s face. Drag your friend along.\n A theme will be given on spot.\nparticipation: 2 per team\n\nrules: \n1. It is an event for 2 participants.\n2. Participants must bring their own materials.\n3. Duration of the event will be 90 minutes.\nCAUTION: MAKE SURE YOUR PAINTS ARE SKIN FRIENDLY\n\neventco: Chandini Sharma - 8123919619 \nprize: 1st place:₹2000    2nd place:₹1000\n     \nregistration: ₹200"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522732122,
+  "fallbackIntent": false,
+  "events": []
+}

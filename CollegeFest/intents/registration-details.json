@@ -1,0 +1,129 @@
+{
+  "id": "22c38909-2d8b-44ce-8853-67ffabc6b8bd",
+  "name": "registration-details",
+  "auto": true,
+  "contexts": [
+    "register_details"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "detailed-application",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0c2b723b-96f9-4910-81f0-15932f0598a2",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "user-name",
+          "value": "$user-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter your name ."
+            },
+            {
+              "lang": "en",
+              "value": "Can you write your name ?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "e80e3d4f-f358-4cd5-ae83-bac63b556547",
+          "required": true,
+          "dataType": "@job-vacancy",
+          "name": "event-name",
+          "value": "$event-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which event do you want to register for ?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "d2f6e3f3-3844-42e1-a825-c51ecba1f90a",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "college-name",
+          "value": "$college-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter your college name ."
+            },
+            {
+              "lang": "en",
+              "value": "Tell us the name of the college you study in."
+            },
+            {
+              "lang": "en",
+              "value": "Name of your Institution."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "3fe83840-49fb-46ee-be3c-eda079216a76",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "phone-no",
+          "value": "$phone-no",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Tell me your phone number."
+            },
+            {
+              "lang": "en",
+              "value": "At what number can we reach you ?"
+            },
+            {
+              "lang": "en",
+              "value": "Can you give me your phone number so we can call  you?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "3378e231-dc00-4f0a-82e7-9fa974dfbc7d",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter you email id ."
+            },
+            {
+              "lang": "en",
+              "value": "Please leave us your email id."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Thank you  $user-name for your registrations ! We will update you regarding event details soon ! Have a great day :)",
+            "$user-name,  your registration was successful . We will update you soon regarding your event details ."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 1000000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523283069,
+  "fallbackIntent": false,
+  "events": []
+}

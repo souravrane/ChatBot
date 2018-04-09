@@ -1,0 +1,50 @@
+[
+  {
+    "id": "4f6813ca-d729-4088-87f8-bf0baf26efe2",
+    "data": [
+      {
+        "text": "where is your college located ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522733019
+  },
+  {
+    "id": "2c9214ce-01ce-4b4e-a8cb-749d1636f3b3",
+    "data": [
+      {
+        "text": "college location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522733019
+  },
+  {
+    "id": "dc4e1da3-95db-499c-b13c-7624729548c7",
+    "data": [
+      {
+        "text": "give me the college address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522733019
+  },
+  {
+    "id": "443c56b3-c593-45a1-9e52-d96a78f2d40b",
+    "data": [
+      {
+        "text": "college adress",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522733019
+  }
+]

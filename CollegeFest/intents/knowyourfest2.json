@@ -1,0 +1,28 @@
+{
+  "id": "7fb23a17-2a10-40c6-82df-518539dad456",
+  "name": "knowyourfest2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Address \u0026 contact details:\nCMR institute of technology\n132, AECS Layout, ITPL Main Road, Kundalahalli, Bengaluru, Karnataka\nEmail: cultura@cmrit.ac.in\nMobile Number: 9880935068\nWebsite: http://culturafest.org\nFacebook: https://www.facebook.com/Cultura.cmrit"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522733019,
+  "fallbackIntent": false,
+  "events": []
+}

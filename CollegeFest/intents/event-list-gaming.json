@@ -1,0 +1,48 @@
+{
+  "id": "b65ad2d4-5cd6-44ae-8967-8dd9a1eab1e4",
+  "name": "event-list-gaming",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8e0ce191-41aa-4674-90af-96987818b1e1",
+          "dataType": "@job-vacancy",
+          "name": "job-vacancy",
+          "value": "$job-vacancy",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "en",
+          "title": "Gaming:",
+          "replies": [
+            "CS GO",
+            "Dota 2"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Gaming :\n1. Counter Strike Global Offensive (cs go)\n2. Dota 2 (dota 2)\nchoose the event to know its details."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522731445,
+  "fallbackIntent": false,
+  "events": []
+}

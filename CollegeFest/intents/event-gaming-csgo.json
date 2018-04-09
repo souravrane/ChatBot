@@ -1,0 +1,45 @@
+{
+  "id": "98ad4528-ff35-41a9-b429-3e143e1ca569",
+  "name": "event-gaming-csgo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cf3a2fd2-4968-4c0c-a794-650b6c1112dc",
+          "required": false,
+          "dataType": "@job-vacancy",
+          "name": "job-vacancy",
+          "value": "$job-vacancy",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "https://www.techadvisor.co.uk/feature/game/best-counter-strike-tips-tricks-3645914/"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Details:\nTeam size : 5\nCounter Strike GO\n\n desc:Counter-Strike (officially abbreviated as CS) is a series of multiplayer first-person shooter video games, in which teams of terrorists and counter-terrorists battle to, respectively, perpetrate an act of terror (bombing, hostage-taking) and prevent it (bomb defusal, hostage rescue).\n     \nRules:\n1. Players can bring their own mouse pads, keyboard headphones and other peripherals to stimulate their own best playing environment.\n2. Tournament format 5 v 5\n3. Maps will be decided on spot\n4. All matches will consist of 14 rounds, out of which each team will be CT and Terrorists for 7 rounds.\n\nevent co: Kumar Shaurya – 9620545955\nprize: 1st place:₹10000  2nd place:₹5000\nregistration: ₹500"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522734692,
+  "fallbackIntent": false,
+  "events": []
+}

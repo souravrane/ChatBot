@@ -1,0 +1,48 @@
+{
+  "id": "4afa0fb8-0a7d-4771-a156-4b8bb51a672d",
+  "name": "event-list-cultural",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7620a5ee-298b-478d-acb9-d2f9db16167b",
+          "dataType": "@job-vacancy",
+          "name": "job-vacancy",
+          "value": "$job-vacancy",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "en",
+          "title": "events",
+          "replies": [
+            "Dance",
+            "Singing"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Cultural :\n1. Dance\n2. Solo singing\nchoose the event to know its details."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522731665,
+  "fallbackIntent": false,
+  "events": []
+}

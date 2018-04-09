@@ -1,0 +1,78 @@
+[
+  {
+    "value": "Technical",
+    "synonyms": [
+      "Tech quiz",
+      "Robotics",
+      "Web Design",
+      "Competetive coding"
+    ]
+  },
+  {
+    "value": "Gaming",
+    "synonyms": [
+      "Counter Strike",
+      "NFS",
+      "Dota 2"
+    ]
+  },
+  {
+    "value": "Cultural",
+    "synonyms": [
+      "Dance",
+      "Singing",
+      "Air Crash"
+    ]
+  },
+  {
+    "value": "Art",
+    "synonyms": [
+      "Paper Wings",
+      "Art Hunt",
+      "Face Painting"
+    ]
+  },
+  {
+    "value": "Literature",
+    "synonyms": [
+      "Spell Bee",
+      "Turncoat"
+    ]
+  },
+  {
+    "value": "Technical",
+    "synonyms": [
+      "Technical"
+    ]
+  },
+  {
+    "value": "Cultural",
+    "synonyms": [
+      "Cultural"
+    ]
+  },
+  {
+    "value": "Gaming",
+    "synonyms": [
+      "Gaming"
+    ]
+  },
+  {
+    "value": "Arts",
+    "synonyms": [
+      "Arts"
+    ]
+  },
+  {
+    "value": "accountant",
+    "synonyms": [
+      "accountant"
+    ]
+  },
+  {
+    "value": "sales",
+    "synonyms": [
+      "sales"
+    ]
+  }
+]

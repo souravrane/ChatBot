@@ -1,0 +1,28 @@
+[
+  {
+    "id": "3d510616-1ce8-45dc-8af0-a5ba4a0ff7ef",
+    "data": [
+      {
+        "text": "Face painting",
+        "alias": "job-vacancy",
+        "meta": "@job-vacancy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1522731167
+  },
+  {
+    "id": "2f8cd7c7-1087-4eab-97c6-349201fef819",
+    "data": [
+      {
+        "text": "Face Paint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522731167
+  }
+]

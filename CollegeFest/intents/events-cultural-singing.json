@@ -1,0 +1,45 @@
+{
+  "id": "6456ccd6-cb80-4c3a-9f34-c2650097e0a3",
+  "name": "events-cultural-singing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9cda2751-8f56-4535-bdc0-ce78e896d96e",
+          "required": false,
+          "dataType": "@job-vacancy",
+          "name": "job-vacancy",
+          "value": "$job-vacancy",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "https://www.freepik.com/free-photos-vectors/singing"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sing For The moment\ndesc: Bring out the talent withing you and shake the crowd with your voice\n participation: Individual\n\n Rules: \n1. Individual event.\n2.  Multiple participants from the same institution are allowed.\n\n\neventco: PRATHIK 9741781065\nprize: 1st place:₹4000   2nd place:₹2000\n\n registration: ₹100"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522730391,
+  "fallbackIntent": false,
+  "events": []
+}

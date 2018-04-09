@@ -1,0 +1,28 @@
+[
+  {
+    "id": "312cdc0f-af89-4b2b-99d5-5efb6030e2a5",
+    "data": [
+      {
+        "text": "Art Hunt",
+        "alias": "job-vacancy",
+        "meta": "@job-vacancy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522732090
+  },
+  {
+    "id": "5725cbe7-d977-4d88-8cab-e70fc0138967",
+    "data": [
+      {
+        "text": "arthunt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1522732090
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "185300e7-5b8e-4fda-af2b-3645a62c7401",
+    "data": [
+      {
+        "text": "Technical",
+        "alias": "job-vacancy",
+        "meta": "@job-vacancy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1522731739
+  },
+  {
+    "id": "31db8a07-0a7a-433f-a404-516dc691c865",
+    "data": [
+      {
+        "text": "Tech",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522731739
+  }
+]

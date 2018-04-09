@@ -1,0 +1,28 @@
+[
+  {
+    "id": "5182892e-19d9-488a-9344-ed882224c6b3",
+    "data": [
+      {
+        "text": "Art events",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522731523
+  },
+  {
+    "id": "e3b0ec7f-b14c-4621-8efa-76eade435116",
+    "data": [
+      {
+        "text": "Arts",
+        "alias": "job-vacancy",
+        "meta": "@job-vacancy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522731523
+  }
+]

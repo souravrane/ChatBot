@@ -1,0 +1,38 @@
+[
+  {
+    "id": "36be2204-49ae-41cf-affb-83ff5212311b",
+    "data": [
+      {
+        "text": "random memes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521561072
+  },
+  {
+    "id": "2ff812ba-a6df-41a8-9688-3f2271792f4b",
+    "data": [
+      {
+        "text": "memes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521561072
+  },
+  {
+    "id": "4c966d8b-d1e7-4423-8741-0f449d2dc111",
+    "data": [
+      {
+        "text": "memes please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521561072
+  }
+]

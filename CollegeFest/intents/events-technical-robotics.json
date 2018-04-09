@@ -1,0 +1,45 @@
+{
+  "id": "4945207e-83fa-42e9-b6b8-847da5d4e625",
+  "name": "events-technical-robotics",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8750ba8f-3447-4a04-8675-2201a8cdfb16",
+          "required": false,
+          "dataType": "@job-vacancy",
+          "name": "job-vacancy",
+          "value": "$job-vacancy",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "https://laughingsquid.com/robogames-2008-poster-by-joshua-ellingson/"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Robotics\ndesc: RC your own bot through our challenges and scores.\nparticipation: 1-4 per team\n\nrules: \n1. No of participants per team: 1‑4\n2. No. of rounds: 4\n3. Robots have to be under 300X300 mm by length and width.\n4. Robots must run on board batteries only.\n\neventco: Sayak bhattacharya - 7829158055\nprize: 1st place:₹5000    2nd place:₹2000\n\nregistration: ₹200"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522732233,
+  "fallbackIntent": false,
+  "events": []
+}

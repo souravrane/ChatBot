@@ -1,0 +1,82 @@
+[
+  {
+    "id": "7473724f-8163-4b8e-8f18-06a84c95a169",
+    "data": [
+      {
+        "text": "Cultural",
+        "alias": "job-vacancy",
+        "meta": "@job-vacancy",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523283144
+  },
+  {
+    "id": "106ef72d-493f-404d-8e4f-dc7d72dae52e",
+    "data": [
+      {
+        "text": "Arts",
+        "alias": "job-vacancy",
+        "meta": "@job-vacancy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523283144
+  },
+  {
+    "id": "1b7340ad-03b9-42cf-920a-9020ca0c487b",
+    "data": [
+      {
+        "text": "Gaming",
+        "alias": "job-vacancy",
+        "meta": "@job-vacancy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523283144
+  },
+  {
+    "id": "c01ea57b-4cea-4fdb-b089-1f5d8fffce31",
+    "data": [
+      {
+        "text": "Technical",
+        "alias": "job-vacancy",
+        "meta": "@job-vacancy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523283144
+  },
+  {
+    "id": "8876a1d7-ed65-4bc8-bd2f-de2c676ac22a",
+    "data": [
+      {
+        "text": "Yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523283144
+  },
+  {
+    "id": "cb0acc3c-30de-49b2-a0e1-a416ab9e26bb",
+    "data": [
+      {
+        "text": "Yes, I am interested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523283144
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6562b264-04f1-4913-9271-1a00464d65b2",
+    "data": [
+      {
+        "text": "can i register for an event",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523282900
+  },
+  {
+    "id": "6ef4ec8e-1c2b-41eb-b5de-5eafbee72a14",
+    "data": [
+      {
+        "text": "event registrations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523282900
+  },
+  {
+    "id": "288bef19-866a-4d73-b0f2-65047d25a7e6",
+    "data": [
+      {
+        "text": "i want to register for an event",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523282900
+  }
+]

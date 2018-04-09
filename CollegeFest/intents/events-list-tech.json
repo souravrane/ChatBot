@@ -1,0 +1,49 @@
+{
+  "id": "e77dcbc3-438e-4925-b7eb-4d852f752b6c",
+  "name": "events-list-tech",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3c8f1cf6-00fa-4a0a-b99d-e8f943686c92",
+          "required": false,
+          "dataType": "@job-vacancy",
+          "name": "job-vacancy",
+          "value": "$job-vacancy",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "en",
+          "title": "events:",
+          "replies": [
+            "Robotics",
+            "Technocrat"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Technical :\n1. Robotics\n2. Technocrat\nchoose the event to know its details."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522733507,
+  "fallbackIntent": false,
+  "events": []
+}

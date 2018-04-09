@@ -1,0 +1,28 @@
+{
+  "id": "25c95065-9482-4933-8b74-8750b86f24b0",
+  "name": "knowyourfest1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "CULTURA’18, Cultural and Technical Fest\n CMR institute of technology, Bangalore, Karnataka,\n3rd – 4th April 2018\n\nFest Name: CULTURA’18\n\nFest Type: Cultural and technical\nOrganised By: CMR Institute of technology\nFest Date: 3rd and 4th April, 2018\nFest Details: Cultura’18 is an annual fest organised by CMR institute of technology. The fest witnesses participation from students across Bangalore. The fests has been star studded as previous years, Lagori, sunburn(lost stories), Dj Aerreo, The Raghu Dixit Project have performed. The technical events also receive incredible response."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522733124,
+  "fallbackIntent": false,
+  "events": []
+}

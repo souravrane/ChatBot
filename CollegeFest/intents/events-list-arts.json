@@ -1,0 +1,49 @@
+{
+  "id": "cdb16ddc-f160-472e-bbae-54b50aec22fd",
+  "name": "events-list-arts",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ac0b5b0c-bef3-4d22-b054-37e18e4091e3",
+          "required": false,
+          "dataType": "@job-vacancy",
+          "name": "job-vacancy",
+          "value": "$job-vacancy",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "en",
+          "title": "events:",
+          "replies": [
+            "Art Hunt",
+            "Face Painting"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Arts :\n1. Art Hunt (art hunt)\n2. Face Painting (face painting)\nchoose the event to know its details."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522732531,
+  "fallbackIntent": false,
+  "events": []
+}

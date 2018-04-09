@@ -1,0 +1,48 @@
+{
+  "id": "1ca151f8-4b86-4cc7-9d8a-fcf89cd1a171",
+  "name": "event-category",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "event_category",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "en",
+          "title": "category:",
+          "replies": [
+            "Gaming",
+            "Arts",
+            "Cultural",
+            "Technical"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sure! please select your event category."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522728464,
+  "fallbackIntent": false,
+  "events": []
+}

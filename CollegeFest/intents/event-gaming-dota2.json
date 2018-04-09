@@ -1,0 +1,45 @@
+{
+  "id": "3fa42e45-a6f2-4ee4-ac9f-76a1102cd594",
+  "name": "event-gaming-dota2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "03affa34-d58c-485a-ba05-0a06df2a1b9e",
+          "required": false,
+          "dataType": "@job-vacancy",
+          "name": "job-vacancy",
+          "value": "$job-vacancy",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "https://gadgets.ndtv.com/games/news/steam-dota-2-valve-1691404"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Dota2\nTeam size: 5 per team\nRules: DOTA 2 (Tournament)\nCompetition method:5 versus 5\nGame version Dota 2\nSides:will be determined by the host.\nFirst Ban:Dire team.\nSPECIFIC RULES:\n1. During the tournament all members team must have their team tag during the event.\n2.Players must be prepared before their scheduled games.\\n3. All competitors must be present 15 minutes prior to their scheduled match.\n\nevent co: Abhimanyu Agarwala : 9435291193\n prize: 1st place:₹10000   2nd place:₹5000\n     \nregistration: ₹500"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522729963,
+  "fallbackIntent": false,
+  "events": []
+}

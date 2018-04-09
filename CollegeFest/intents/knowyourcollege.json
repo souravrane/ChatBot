@@ -1,0 +1,28 @@
+{
+  "id": "aa0feda3-9c8d-444c-989e-3c5e8e03bda6",
+  "name": "knowyourcollege",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can visit the following link regarding information and details about our college .\nhttp://www.cmrit.ac.in/about-cmrit/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522733285,
+  "fallbackIntent": false,
+  "events": []
+}

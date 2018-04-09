@@ -1,0 +1,58 @@
+{
+  "id": "b651ac0c-2627-4c93-a499-108fe6348761",
+  "name": "surprise me ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "en",
+          "speech": "There you go ! B) B)"
+        },
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "https://hypb.imgix.net/image/2018/03/goku-jiren-dragon-ball-super-spoiler-00.jpg?fit\u003dmax\u0026q\u003d90\u0026w\u003d500\u0026h\u003d333\u0026auto\u003dcompress%2Cformat"
+        },
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "https://memeguy.com/photos/images/my-friend-has-a-rather-dark-sense-of-humor-75322.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Here you go !"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://hypb.imgix.net/image/2018/03/goku-jiren-dragon-ball-super-spoiler-00.jpg?fit\u003dmax\u0026q\u003d90\u0026w\u003d500\u0026h\u003d333\u0026auto\u003dcompress%2Cformat"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521599473,
+  "fallbackIntent": false,
+  "events": []
+}
